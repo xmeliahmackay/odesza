@@ -1,3 +1,6 @@
+h1 {
+  text-align: center;
+}
 .sidebar {
   width: 40%;
   float: right;
@@ -13,4 +16,23 @@ h1 {
 }
 .thempic {
   width: 40%;
+  height: 320px;
+}
+.drumline {
+  width: 40%;
+  height: 320px;
+}
+.column {
+  float: right;
+  background-color: rgb(255, 242, 172);
+  height: 320px;
+}
+body {
+  font-family: "Gill Sans", sans-serif;
+}
+p {
+  background-color: rgb(161, 145, 199);
+}
+.love {
+  margin: 3px;
 }
