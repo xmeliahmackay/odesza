@@ -10,7 +10,7 @@ _This webpage is to practice using floats, making columns, and furthering my cod
 
 ## Setup/Installation Requirements
 
-* _Download from "https://github.com/xmeliahmackay/my-first-webpage"
+* _Download from "https://github.com/xmeliahmackay/odesza"
 
 ## Support and Contact Details
 
