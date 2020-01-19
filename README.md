@@ -1,6 +1,6 @@
 # _Fave Bands_
 
-#### _A webpage for one of my favorite artists Odesza, for Epicodus, 01.19.2020
+#### _A webpage for one of my favorite artists Odesza, for Epicodus, 01.19.2020_
 
 #### By _**Meliah Mackay**_
 
@@ -10,7 +10,7 @@ _This webpage is to practice using floats, making columns, and furthering my cod
 
 ## Setup/Installation Requirements
 
-* _Download from "https://github.com/xmeliahmackay/odesza"
+* _Download from "https://github.com/xmeliahmackay/odesza"_
 
 ## Support and Contact Details
 
