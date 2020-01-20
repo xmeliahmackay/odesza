@@ -2,25 +2,31 @@ h1 {
   text-align: center;
 }
 .sidebar {
-  width: 40%;
+  width: 38%;
   float: right;
   background-color: rgb(122, 203, 218);
   font-size: 24px;
   height: 535px;
+  border: 2px solid grey;
+  padding: 5px;
+  margin: 3px;
 }
 .firstpic {
-  width: 60%
+  width: 60%;
+  padding: 3px;
 }
 h1 {
   font-size: 32;
 }
 .thempic {
-  width: 40%;
+  width: 3ß%;
   height: 320px;
+  padding: 2px;
 }
 .drumline {
-  width: 40%;
+  width: 38%;
   height: 320px;
+  padding: 2px;
 }
 .column {
   float: right;
